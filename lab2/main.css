@@ -1,0 +1,50 @@
+header {
+	background-image: url(images/blue-background.jpg);
+}
+
+header h3 {
+	font-size: xx-large;
+	text-align: right;
+	margin-right: 30;
+}
+
+#block-1 {
+	background-image: url(images/white-background.jpg);
+	float: left;
+	width: 25%;
+	height: 70%;
+	text-align: center;
+}
+#block-2 {
+	float: left;
+	width: 25%;
+	height: 70%;
+}
+#block-3 {
+	background-image: url(images/love-background.jpg);
+	float: left;
+	width: 25%;
+	height: 70%;
+	text-align: center;
+}
+#block-4 {
+	float: left;
+	width: 25%;
+	height: 70%;
+}
+
+#clear {
+	clear: left;
+}
+
+footer {
+	font-size: large;
+}
+
+h5 {
+	font-family: monospace;
+}
+
+p {
+	font-family: sans-serif;
+}
