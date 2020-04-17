@@ -1,0 +1,28 @@
+#d1 {
+	margin-left: 45;
+	width: 100px; 
+	height: 100px;
+	background: rgb(87%, 23%, 68%, 0.6);
+	border-radius: 50%;
+	border: 1px solid black;
+	float: none; 
+}
+#d2 {
+	margin-top: -30;
+	width: 100px; 
+	height: 100px;
+	background: rgba(58, 186, 222, 0.6);
+	border-radius: 50%;
+	border: 1px solid black;
+	float: left; 
+}
+#d3 {
+	margin-top: -30;
+	margin-left: -20;
+	width: 100px; 
+	height: 100px;
+	background: rgba(58, 222, 132, 0.6);
+	border-radius: 50%;
+	border: 1px solid black;
+	float: left; 
+}
